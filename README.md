@@ -1,12 +1,12 @@
-#Jose Ramirez
-###Portfolio
+# Jose Ramirez
+### Portfolio
 
-###Education
+### Education
 Electrical and Computer Engineering
 
 
-#head
-###header
+# head
+### header
 **BOLD**
--bullet
+- bullet
 _italicize_
